@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bukit007.github.io/jamesbond/sitemap.xml
